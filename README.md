@@ -1,2 +1,2 @@
 # Python
-All the basic concepts of python are present here, you can follow this to learn the basics of python.
+All the basic concepts of Python are present here, you can make use of it to learn the basic concepts of Python.
